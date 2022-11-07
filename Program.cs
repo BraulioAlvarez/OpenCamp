@@ -54,3 +54,11 @@ Console.WriteLine("1 y 1 condiciones  {0}",(edad > 18) && (variable == 'b') );
 
 
 #endregion
+
+
+#region Practica3
+
+ClienteStruc cliente = new ClienteStruc("Braulio","8294492453","El Millon","braulio-alvarez@hotmail.com");
+Console.WriteLine(cliente.ToString());
+
+#endregion
