@@ -127,3 +127,55 @@ for ( i = 1; i <= _y; i++)
 #endregion
 
 #endregion
+
+
+#region Practica5
+
+string Nombre, email; 
+bool cupon;
+int productoCosto = 1582;
+
+
+Console.WriteLine("Ingrese su nombre y presione Enter, Ingrese su email y presione enter, ingrese true o false si tiene o no un copon");
+nombre = Console.ReadLine();
+email = Console.ReadLine();
+cupon = bool.Parse(Console.ReadLine());
+
+
+
+if(cupon) Console.WriteLine("Cliente tiene un cupo{0}",(productoCosto - 100));
+
+else Console.WriteLine("Cliente not tiene un cupo{0}",(productoCosto));
+
+string[] lenguajes = {"C#","Java","Javascrip"};
+
+for(int record=0;record < lenguajes.Length;record++)
+{
+    Console.WriteLine("Ingrese el numero correspondiente al lenguaje que desea imprimir o saludar {0} para {1}",record,lenguajes[record]);
+}
+
+int valorIntroducido =int.Parse(Console.ReadLine());
+
+switch (valorIntroducido) {
+    case (0):
+    Console.WriteLine("Hola {0}",lenguajes[valorIntroducido]);
+    break;
+    case (1):
+    Console.WriteLine("Hola otra condicion para forzar el switch {0}",lenguajes[valorIntroducido]);
+    break;
+     case (2):
+    Console.WriteLine("Hola otra por si acaso {0}",lenguajes[valorIntroducido]);
+    break;
+    default:
+    break;
+
+}
+
+
+
+
+
+
+
+
+#endregion
