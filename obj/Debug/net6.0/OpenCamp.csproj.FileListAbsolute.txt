@@ -13,3 +13,18 @@ C:\Users\BA317645\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\refint\OpenCamp.
 C:\Users\BA317645\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.pdb
 C:\Users\BA317645\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.genruntimeconfig.cache
 C:\Users\BA317645\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\ref\OpenCamp.dll
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\bin\Debug\net6.0\OpenCamp.exe
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\bin\Debug\net6.0\OpenCamp.deps.json
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\bin\Debug\net6.0\OpenCamp.runtimeconfig.json
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\bin\Debug\net6.0\OpenCamp.dll
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\bin\Debug\net6.0\OpenCamp.pdb
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.csproj.AssemblyReference.cache
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.AssemblyInfoInputs.cache
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.AssemblyInfo.cs
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.csproj.CoreCompileInputs.cache
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.dll
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\refint\OpenCamp.dll
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.pdb
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\OpenCamp.genruntimeconfig.cache
+C:\Users\BA317645\OneDrive - BHD\Desktop\OpenBootcam\OpenCamp\obj\Debug\net6.0\ref\OpenCamp.dll
